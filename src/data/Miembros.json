@@ -1,0 +1,103 @@
+[
+    {
+      "code": 1,
+      "name": "Alice Johnson",
+      "category": "administrador"
+    },
+    {
+      "code": 2,
+      "name": "Bob Smith",
+      "category": "cajero"
+    },
+    {
+      "code": 3,
+      "name": "Charlie Brown",
+      "category": "supervisor"
+    },
+    {
+      "code": 4,
+      "name": "Diana Ross",
+      "category": "administrador"
+    },
+    {
+      "code": 5,
+      "name": "Edward Davis",
+      "category": "cajero"
+    },
+    {
+      "code": 6,
+      "name": "Fiona Adams",
+      "category": "supervisor"
+    },
+    {
+      "code": 7,
+      "name": "George White",
+      "category": "cajero"
+    },
+    {
+      "code": 8,
+      "name": "Hannah Martinez",
+      "category": "administrador"
+    },
+    {
+      "code": 9,
+      "name": "Isaac Lee",
+      "category": "supervisor"
+    },
+    {
+      "code": 10,
+      "name": "Julia Taylor",
+      "category": "administrador"
+    },
+    {
+      "code": 11,
+      "name": "Kevin Thompson",
+      "category": "cajero"
+    },
+    {
+      "code": 12,
+      "name": "Laura Wilson",
+      "category": "administrador"
+    },
+    {
+      "code": 13,
+      "name": "Michael Harris",
+      "category": "supervisor"
+    },
+    {
+      "code": 14,
+      "name": "Natalie Young",
+      "category": "cajero"
+    },
+    {
+      "code": 15,
+      "name": "Oliver Scott",
+      "category": "supervisor"
+    },
+    {
+      "code": 16,
+      "name": "Patricia Walker",
+      "category": "administrador"
+    },
+    {
+      "code": 17,
+      "name": "Quentin Robinson",
+      "category": "cajero"
+    },
+    {
+      "code": 18,
+      "name": "Rachel Hill",
+      "category": "supervisor"
+    },
+    {
+      "code": 19,
+      "name": "Steven Clark",
+      "category": "administrador"
+    },
+    {
+      "code": 20,
+      "name": "Theresa Allen",
+      "category": "cajero"
+    }
+  ]
+  
