@@ -7,7 +7,7 @@ const __dirname = path.dirname(__filename);
 
 const miembrosFilePath = path.join(__dirname, '../data/miembros.json');
 
-class MiembrosController {
+export default class MiembrosController {
     static getMiembros(req, res) {
         fs.readFile(miembrosFilePath, 'utf8', (err, data) => {
             if (err) {
@@ -70,5 +70,3 @@ class MiembrosController {
         });
     }
 }
-
-export default MiembrosController;
