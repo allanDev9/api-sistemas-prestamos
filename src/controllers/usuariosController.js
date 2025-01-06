@@ -1,4 +1,4 @@
-import fs from 'fs/promises';  // Usar promisified fs para evitar callbacks
+import fs from 'fs/promises'; 
 import path from 'path';
 import { fileURLToPath } from 'url';
 
